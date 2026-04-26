@@ -2,9 +2,9 @@ name: Welcome
 
 on:
   pull_request_target:
-    types: [opened]
+    types: [ opened ]
   issues:
-    types: [opened]
+    types: [ opened ]
 
 jobs:
   welcome:

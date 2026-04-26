@@ -150,13 +150,8 @@ async function generatePDF() {
     const pdfBuffer = await page.pdf({
       format: format,
       printBackground: true,
-      margin: {
-        top: '0.6in',
-        right: '0.6in',
-        bottom: '0.6in',
-        left: '0.6in',
-      },
-      preferCSSPageSize: false,
+      margin: undefined,
+      preferCSSPageSize: true,
     });
 
     // Write PDF
