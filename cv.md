@@ -62,7 +62,7 @@ _(2009--2010 | Vienna, Austria)_
 - PJAIT ASI (2026)
 - DeepLearning.ai Agentic AI (2025)
 - Practical Deep Learning for Coders with fast.ai (2024)
-- NVIDIA Fundamentals of Deep Learning (2024) _(https://learn.nvidia.com/certificates?id=5s6GTXiaTbKbwgZ3dPQrWwcertificate)_
+- NVIDIA Fundamentals of Deep Learning (2024) _([certificate](https://learn.nvidia.com/certificates?id=5s6GTXiaTbKbwgZ3dPQrWwcertificate))_
 - PJAIT Artificial Intelligence Tools (2025)
 - PJAIT Python Programming (2025)
 - PJAIT Database Systems (2025)
